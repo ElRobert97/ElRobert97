@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ElRobert97
-- 👀 I’m interested in learning JS and TS
-- 🌱 I’m currently learning JS, TS, CSS and HTML
-- 💞️ I’m looking to collaborate on little projects or maybe a work proposal.
-- 📫 How to reach me ...
-
-<!---
-ElRobert97/ElRobert97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá me chamo Elias, se formando em Anpalise e Desenvolvimento de Sistemas, moro em Praia Grande SP, trabalhei em projetos envolvendo e-commerce criando automações manipulando excel e integrações com API do Mercado Livre, Shopee, Bling ERP e Tiny ERP, sempre com uma visão analitica sobre a necessidade do cliente e como gerar valor com código. Reduzindo processos que podem ser automatizados e melhorados.
+Conhecimentos em:
+- Python: Django, Selenium, PyAutogui, Playwright, Pandas, FastApi.
+- TS/JS NestJS, Express, React.
+- Golang
+- SQL SGBD PostgresSql
